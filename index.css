@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+body{
+    background: rgb(224, 224, 224);
+}
+
+*{
+
+    font-family: 'Hind Siliguri', sans-serif;
+
+}
